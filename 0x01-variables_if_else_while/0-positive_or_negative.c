@@ -7,7 +7,7 @@
 /**
  * main - this is the main function
  *
- * Return: return true if conditions are met
+ * Return: return answer if conditions are true
  */
 
 int main(void)
